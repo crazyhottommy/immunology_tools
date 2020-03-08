@@ -7,6 +7,7 @@
 * [Next-generation computational tools for interrogating cancer immunity](https://www.nature.com/articles/s41576-019-0166-7)
 * [Host tissue determinants of tumour immunity](https://www.nature.com/articles/s41568-019-0125-9)
 * [Defining trained immunity and its role in health and disease](https://www.nature.com/articles/s41577-020-0285-6)
+* [Harnessing innate immunity in cancer therapy](https://www.nature.com/articles/s41586-019-1593-5)
 
 ### tools
 
