@@ -13,3 +13,4 @@
 
 * [ImSpectR](https://github.com/martijn-cordes/ImSpectR)  https://github.com/martijn-cordes/ImSpectR
 * [OpenVax Neoantigen Prediction Pipeline: A Tutorial](https://www.openvax.org/blog/openvax-neoantigen-prediction-pipeline-a-tutorial)
+* [mhcgnomes: Parsing MHC nomenclature in the wild](https://github.com/til-unc/mhcgnomes)
